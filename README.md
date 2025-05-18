@@ -1,1 +1,2 @@
 # Ruby-Practice
+**Ruby** is a high-level, open-source programming language known for its simplicity and readability. It follows an object-oriented approach and is widely used for web development, especially with the Ruby on Rails framework. Ruby emphasizes productivity and developer happiness with its clean syntax. It supports dynamic typing, automatic memory management, and powerful metaprogramming features. Ruby is ideal for building scalable and maintainable applications quickly.
